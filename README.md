@@ -1,2 +1,2 @@
-# pwnd-sne.github.io
+# pwnd-zne.github.io
 pwnd scripts and files
