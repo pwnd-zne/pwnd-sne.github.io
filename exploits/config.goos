@@ -1,0 +1,5 @@
+Version=0
+CanAttackAtRandom=True
+MinWanderingTimeSeconds=1
+MaxWanderingTimeSeconds=1
+FirstWanderTimeSeconds=1
